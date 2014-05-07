@@ -1,0 +1,14 @@
+/* Styles by Radha Software Products */
+.rsp-footer {
+	position: absolute;
+	bottom: 0px;
+}
+.rsp-top20 {
+	position:relative;
+	margin-top: 20%;
+}
+body{
+   	background-image: url(../img/rsp-underConstruction.jpg);
+        background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
